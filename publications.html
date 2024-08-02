@@ -55,7 +55,7 @@
                     </li>
                 
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="Research.html">Award</a>
+                        <a class="nav-link me-lg-3" href="Award.html">Award</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle me-lg-3 dropdown-toggle-item" href="Research.html" id="navbarTeachingDropdown" role="button"
@@ -135,6 +135,39 @@
     <!-- Core JS-->
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var dropdownToggles = document.querySelectorAll('.dropdown-toggle-item');
+    
+            dropdownToggles.forEach(function(toggle) {
+                var dropdownMenu = toggle.nextElementSibling;
+    
+                // 悬浮显示子菜单
+                toggle.addEventListener('mouseenter', function() {
+                    dropdownMenu.classList.add('show');
+                });
+    
+                toggle.addEventListener('mouseleave', function() {
+                    dropdownMenu.classList.remove('show');
+                });
+    
+                dropdownMenu.addEventListener('mouseenter', function() {
+                    dropdownMenu.classList.add('show');
+                });
+    
+                dropdownMenu.addEventListener('mouseleave', function() {
+                    dropdownMenu.classList.remove('show');
+                });
+    
+                // 点击跳转到指定页面
+                toggle.addEventListener('click', function(event) {
+                    event.preventDefault(); // 阻止默认的下拉菜单行为
+                    window.location.href = toggle.getAttribute('href'); // 跳转到指定页面
+                });
+            });
+        });
+    </script>
 
 
 </body>
