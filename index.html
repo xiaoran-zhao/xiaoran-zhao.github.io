@@ -56,7 +56,7 @@
                     </li> -->
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle me-lg-3" href="Research.html" id="navbarResearchDropdown" role="button"
+                        <a class="nav-link dropdown-toggle me-lg-3" href=" " id="navbarResearchDropdown" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false">
                             Research
                         </a >
@@ -245,6 +245,7 @@
             var researchDropdown = document.getElementById('navbarResearchDropdown');
             var dropdownMenu = researchDropdown.nextElementSibling;
     
+            // 悬浮显示子菜单
             researchDropdown.addEventListener('mouseenter', function() {
                 dropdownMenu.classList.add('show');
             });
@@ -259,6 +260,12 @@
     
             dropdownMenu.addEventListener('mouseleave', function() {
                 dropdownMenu.classList.remove('show');
+            });
+    
+            // 点击跳转到指定页面
+            researchDropdown.addEventListener('click', function(event) {
+                event.preventDefault(); // 阻止默认的下拉菜单行为
+                window.location.href = researchDropdown.getAttribute('href'); // 跳转到指定页面
             });
         });
     </script>
