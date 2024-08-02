@@ -2,7 +2,7 @@ Professor, IEEE Senior Member, Clarivate "Highly Cited Researcher" 2021-2023; 20
 
 **Affiliation:** College of Computer Science and Technology, China University of Petroleum(East China), China
 
-**Email:** <span>lianyongqi@gmail.com</span>
+**Email:** lianyongqi\@gmail.com
 
 **招生:** 每年1-2名博士生，3-5名硕士生。
 
