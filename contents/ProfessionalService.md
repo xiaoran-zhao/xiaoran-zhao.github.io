@@ -1,4 +1,4 @@
-（1）Editor
+**<span style="color: blue;">（1）Editor</span>**
 
 - Tsinghua Science and Technology, Associate Editor (2024~)
 
@@ -10,7 +10,7 @@
 
 - Scientific Reports, Editorial Board (2021~)
 
-（2）Conference Chair
+**<span style="color: blue;">（2）Conference Chair</span>**
 
 - ADMA (The 20th International Conference Advanced Data Mining and Applications, CCF-C), Sydney, Australia, 2024, Journal Track Chair.
 
@@ -52,7 +52,7 @@
 
 - IEEE CPSCom'2018. TPC Vice Chair
 
-（3）PC member
+**<span style="color: blue;">（3）PC member</span>**
 
 - KDD, 2025
 
