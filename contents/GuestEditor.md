@@ -1,4 +1,4 @@
-**（2024）**
+**<span style="color: blue;">（2024）</span>**
 
 - Information Sciences (CCF-B), Special Issue:  Explainable Artificial Intelligence for Security and Privacy in Recommender Systems.
 
