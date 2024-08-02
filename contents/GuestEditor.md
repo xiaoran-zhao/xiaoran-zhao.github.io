@@ -1,10 +1,10 @@
-**<font color="blue">（2024）</font>**
+**（2024）**
 
 - Information Sciences (CCF-B), Special Issue:  Explainable Artificial Intelligence for Security and Privacy in Recommender Systems.
 
 - Scientific Reports, Special Issue:  AI alignment.
 
-**<font color="blue">（2023）</font>**
+**（2023）**
 
 - ACM Transactions on Autonomous and Adaptive Systems (CCF-B), Special Issue:  Intelligent Applications of Web 3.0 and Metaverse for Connected Autonomous Vehicles.
 
@@ -14,7 +14,7 @@
 
 - Automated Software Engineering (CCF-B), Special Issue: Implications of Fuzzy Techniques for Developing Quantum Software Systems.
 
-**<font color="blue">（2022）</font>**
+**（2022）**
 
 - IEEE Transactions on Automation Science and Engineering (CCF-B), Special Issue: Future Trends and Transition in Connected and Autonomous Transportation with Artificial Intelligence and Robotics. 
 
@@ -24,7 +24,7 @@
 
 - Concurrency and Computation: Practice and Experience (CCF-C), Special Issue: 12th International Conference on Computer Engineering and Networks (CENet2022).
 
-**<font color="blue">（2021）</font>**
+**（2021）**
 
 - IEEE Transactions on Computational Social Systems (CCF-C), Special Issue: Knowledge-Infused Learning for Computational Social Systems.
 
@@ -36,7 +36,7 @@
 
 - Wireless Networks (CCF-C), Special Issue: Artificial Intelligence for Cloud/Edge-based IoT Applications.
 
-**<font color="blue">（2020）</font>**
+**（2020）**
 
 - Computer Communications (CCF-C), Special Issue: Secure Artificial Intelligence in Mobile Edge Computing.
 
