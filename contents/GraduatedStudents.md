@@ -1,11 +1,7 @@
 - Wenwen Gong (2015): Tsinghua University, Postdoc Candidate
-
 - Yanwei Xu (2016): Tianjin University, Ph.D Candidate
-
 - Hanwen Liu (2017): Nanjing University of Science and Technology, Ph.D Candidate
-
 - Xiaoxiao Chi (2018): Macquarie University (Australia), Ph.D Candidate
-
 - Lina  Wang (2018): Shandong University, Ph.D Candidate
 
 - Weiyi Zhong (2018): Qufu Normal University, Ph.D Candidate
