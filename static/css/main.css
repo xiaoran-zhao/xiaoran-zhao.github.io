@@ -127,11 +127,3 @@ section .main-body{
     }
 
 }
-
-/* CSS: 显示下拉菜单的样式 */
-.nav-item:hover .dropdown-menu {
-    display: block;
-}
-.dropdown-menu {
-    display: none;
-}
