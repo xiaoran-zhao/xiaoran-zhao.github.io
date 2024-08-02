@@ -1,5 +1,3 @@
-**Research area：**
-
 - Big data
 
 - Service computing
