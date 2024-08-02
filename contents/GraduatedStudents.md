@@ -1,0 +1,29 @@
+- Wenwen Gong (2015): Tsinghua University, Postdoc Candidate
+
+- Yanwei Xu (2016): Tianjin University, Ph.D Candidate
+
+- Hanwen Liu (2017): Nanjing University of Science and Technology, Ph.D Candidate
+
+- Xiaoxiao Chi (2018): Macquarie University (Australia), Ph.D Candidate
+
+- Lina  Wang (2018): Shandong University, Ph.D Candidate
+
+- Weiyi Zhong (2018): Qufu Normal University, Ph.D Candidate
+
+- Huaizhen Kou (2018): Nanjing University of Science and Technology, Ph.D Candidate
+
+- Yihong Yang (2019): China University of Geosciences (Beijing), Ph.D Candidate
+
+- Liu Yuwen (2019): China University of Petroleum (East China), Ph.D Candidate
+
+- Lingzhen Kong  (2019): Nanjing University of Science and Technology, Ph.D Candidate
+
+- Fan Wang (2019): Zhejiang University, Ph.D Candidate
+
+- Jushi Xie (2019): Shandong Laiwu Rural Commercial Bank
+
+- Shengqi Wu (2020): Qingdao Municipal Civil Servant
+
+- Yuqing Wang (2020): Weifang Vocational College
+
+- Xintong Fan (2020): 
