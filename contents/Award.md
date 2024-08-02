@@ -1,0 +1,33 @@
+- 2022 **Highly Cited Researcher** (Clarivate, a total of 43 people in the field of computer science in Mainland China)
+- 2021 **Highly Cited Researcher** (Clarivate, a total of 36 people in the field of computer science in Mainland China)
+- 2022 **Highly Cited Chinese Researcher** (Elsevier, 214 people in computer field nationwide)
+- 2021 **Highly Cited Chinese Researcher** (Elsevier, 184 people in computer field nationwide)
+- 2020 **Highly Cited Chinese Researcher** (Elsevier, 150 people in computer field nationwide)
+- 2022 **World's Top 2% Scientists** (Stanford University)
+- 2021 **World's Top 2% Scientists** (Stanford University)
+- 2020 **World's Top 2% Scientists** (Stanford University)
+- 2020 **China's 100 Most Influential International Academic Papers** (Institute of Scientific and Technical Information of China)
+- 2019 **China's 100 Most Influential International Academic Papers** (Institute of Scientific and Technical Information of China)
+- "Journal of Network and Computer Applications" **2021 Best Paper Award** (CCF-C)
+- "Computer Communications" **2021 Best Research Paper Award** (CCF-C)
+- IEEE UIC' 2022－**Outstanding Paper Award** (CCF-C)
+- IEEE ATC' 2022－**Best Paper Award**
+- IEEE iThings' 2022－**Best Paper Award**
+- IEEE Smart City'2021－**Outstanding Paper Award**
+- CyberSciTech'2021－**Best Paper Award**
+- EAI Cloudcomp'2021－**Best Paper Award**
+- CENet'2021－**Best Paper Award**
+- DSAA'2020－**Best Symposium Award** (CCF-C)
+- IEEE CPSCom'2020－**Best Paper Award**
+- SPDE'2020－**Best Paper Award**
+- SpaCCS'2017 - **Best Paper Award**
+- CSS'2017-**Best Paper Award**
+- **Academic Innovation Award of National College Artificial Intelligence Big Data Blockchain Education and Teaching**, The First Prize, 2022
+- **Postgraduate Excellent Achievement Award**, Shandong Province, The Second Prize, 2021 (Instructor)
+- **The Outstanding Postgraduate Achievements in Shandong Province**, The Second Prize, 2020 (Instructor)
+- **The Outstanding Scientific Research Achievements of Higher Education in Shandong Province**, The Second Prize, 2019. (2/3)
+- **The Outstanding Scientific Research Achievements of Higher Education in Shandong Province**, The Third Prize, 2016. (1/4)
+- **The Outstanding Scientific Research Achievements of Higher Education in Shandong Province**, The Third Prize, 2015. (4/4)
+- **Academic Innovation Award of Natural Science**, The First Prize, The city of Jingning, 2018 (1/2)
+- **Leader of Natural Science in Jining City**, shandong province, 2017.
+- **Software Service Innovation Contest**, China Computer Federation, The Third Prize, 2020
