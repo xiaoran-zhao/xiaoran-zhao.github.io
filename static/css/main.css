@@ -128,3 +128,7 @@ section .main-body{
 
 }
 
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* 如果下拉菜单的动画有问题，可以调整 */
+}
