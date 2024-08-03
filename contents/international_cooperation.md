@@ -1,0 +1,15 @@
+- University of Auckland, New Zealand
+- Massey University, New Zealand
+- Deakin University, Australia
+- Swinburne University of Technology, Australia
+- Macquarie University, Australia
+- University of Wollongong, Australia
+- University of Huddersfield, UK
+- University of the West of England, UK
+- Carnegie Mellon University, USA
+- Purdue University, USA
+- Temple University, USA
+- Pace University, USA
+- University of Windsor, Canada
+- Saint Francis Xavier University, Canada
+- Ritsumeikan University, Japan 
