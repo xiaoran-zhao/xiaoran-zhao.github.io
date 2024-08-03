@@ -23,6 +23,27 @@
     <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
 
+    <style>
+        .content-wrapper {
+            display: flex;
+            align-items: center;
+        }
+
+        .left, .right {
+            flex: 1;
+            padding: 10px;
+        }
+
+        .image {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .right {
+            font-weight: 900;
+        }
+    </style>
+
 </head>
 
 <body id="page-top">
@@ -104,15 +125,14 @@
         <div class="container px-5">
             <header>
             </header>
-            <div class="main-body" id="CallforPaper-md" style="display: flex;">
-                <!-- 左侧图片 -->
-                <div style="flex: 0 1 auto; padding: 10px;">
-                    <img src="static/assets/img/DSAA2024.jpg" alt="Left Image" style="width: 100%;">
-                </div>
-                <!-- 右侧文字和图片 -->
-                <div style="flex: 1 1 auto; padding: 10px;">
-                    <h2>DSAA 2024 (CCF-C)</h2>
-                    <p>Special Session on Private, Secure, and Trust Data Analytics (PSTDA2024)</p>
+            <div class="main-body" id="CallforPaper-md">
+                <div class="content-wrapper">
+                    <div class="left">
+                        <img src="static/assets/img/DSAA2024.jpg" alt="Left Image" class="image">
+                    </div>
+                    <div class="right">
+                        <p>这是右边的文字内容。</p>
+                    </div>
                 </div>
             </div>
         </div>
