@@ -23,27 +23,6 @@
     <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
 
-    <style>
-        .content-wrapper {
-            display: flex;
-            align-items: center;
-        }
-
-        .left, .right {
-            flex: 1;
-            padding: 10px;
-        }
-
-        .image {
-            max-width: 100%;
-            height: auto;
-        }
-
-        .right {
-            font-weight: 900;
-        }
-    </style>
-
 </head>
 
 <body id="page-top">
@@ -120,23 +99,25 @@
     </section>
     <!-- Top Section -->
 
-
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="home">
-        <div class="container px-5">
-            <header>
-            </header>
-            <div class="main-body" id="CallforPaper-md">
-                <div class="content-wrapper">
-                    <div class="left">
-                        <img src="static/assets/img/DSAA2024.jpg" alt="Left Image" class="image">
-                    </div>
-                    <div class="right">
-                        <p>这是右边的文字内容。</p>
-                    </div>
+        <div class="container px-5" style="display: flex;">
+            <div class="left-side" style="flex: 1; margin-right: 20px;">
+                <!-- 左侧内容 -->
+                <header>
+                    <h1>左侧内容</h1>
+                </header>
+                <div class="main-body" id="CallforPaper-md">
+                    <p>这是左侧部分的主要内容。</p>
                 </div>
+            </div>
+            <div class="right-side" style="flex: 1;">
+                <!-- 右侧内容 -->
+                <h2>右侧内容</h2>
+                <p>这是右侧部分的内容。</p>
             </div>
         </div>
     </section>
+    
 
 
 
