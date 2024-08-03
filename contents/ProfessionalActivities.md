@@ -1,56 +1,74 @@
 ###  <span style="color: blue;">（1）Guest editor</span>
 - Tsinghua Science and Technology ( SCI, IF = 1.696)
+
   Special Issue: AI Powered Service Optimization for Edge/Fog Computing. 
 
 - Security and Communication Networks ( CCF-C )
+
   Special Issue: Ensuring Security for Artificial Intelligence Applications in Mobile Edge Computing.
 
 - Digital Communications and Networks (SCI, IF = 3.41)
+
   Special Issue: Security and Privacy for AI-powered Smart IoT Applications.
 
-- Computer Communications (CCF-C, SCI), 2020 
+- Computer Communications (CCF-C, SCI), 2020.
+
   Special issue: Secure Artificial Intelligence in Mobile Edge Computing. 
 
 - Mobile Networks & Applications (MONET) (CCF-C, SCI), 2020.
+
  `Special Issue: Convergency of AI and Cloud/Edge Computing for Big Data Applications. 
 
 - Journal of Organizational and End User Computing ( SCI / SSCI ), 2020.
+
   Special Issue: AI-powered E-Commerce Management and Optimization.
 
-- Journal of Medical Imaging and Health Informatics (SCI), 2020
+- Journal of Medical Imaging and Health Informatics (SCI), 2020.
+
   Special Issue on: AI-powered Smart E-Health: Methodologies and Applications.
 
 - Symmetry (SCI), 2020.
+
   Special Issue: Symmetry in IoT Service Enhancement Supported by Smart Communication with Space.
 
 - Big Data Mining and Analytics (ESCI), 2020.
+
   Special issue: Collaborative Innovation in Complex System over Big Data. 
 
 - EURASIP Journal on Wireless Communications and Networking (SCI), 2019.
+
   Special issue: Human-centered Computing in Cloud / Edge / Fog. 
 
 - Journal of Cloud Computing (SCI), 2019.
+
   Special issue: Security and privacy issues for artificial intelligence in edge-cloud computing.
 
 - CCF Transactions on Pervasive Computing and Interaction, 2019.
+
   Special Issue: Pervasive Intelligence: State-of-the-Art, Challenges and Perspectives.
 
 - Security and Communication Networks (CCF-C, IF = 1.067), 2018.
+
   Special Issue: Intrusion Detection and Prevention in Cloud, Fog, and Internet of Things
 
 - Journal of Organizational and End User Computing (SCI/SSCI), 2018.
+
   Special issue on: User-Centric Service Recommendation in Internet of Things.
 
 - International Journal of Embedded Systems (EI), 2018.
+
   Special Issue: Human-Centered Cloud/Fog/Edge Computing in Cyber-Physical-Social Systems.
 
 - Advances in Multimedia (ESCI/EI), 2018.
+
   Special issue: Smart Multimedia Content Recommendation in Web of Things. 
 
 - Security and Communication Networks (CCF-C, IF = 1.067), 2017.
+
   Special issue: Privacy Issues in Big Data Mining Infrastructure, Platforms, and Applications.
 
 - International Journal of Distributed Sensor Networks (IF = 1.239), 2016.
+
   Special issue: Internet of Things (IoT) Management and Analytics with Cloud Infrastructure and Services. 
 
 ###  <span style="color: blue;">（2）Conference Chair </span>
