@@ -43,24 +43,26 @@
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle me-lg-3 dropdown-toggle-item" href="research.html" role="button" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle me-lg-3 dropdown-toggle-item" href="research.html"
+                            role="button" aria-expanded="false">
                             Research
-                        </a >
+                        </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarResearchDropdown">
-                            <li><a class="dropdown-item" href="publications.html">Publications</a ></li>
-                            <li><a class="dropdown-item" href="myfundings.html">Fundings</a ></li>
+                            <li><a class="dropdown-item" href="publications.html">Publications</a></li>
+                            <li><a class="dropdown-item" href="myfundings.html">Fundings</a></li>
                             <!-- <li><a class="dropdown-item" href="myfundings.html">Fundings</a ></li> -->
-                            <li><a class="dropdown-item" href="patents.html">Patents</a ></li>
-                            <li><a class="dropdown-item" href="professional_activities.html">Professional Activities</a ></li>
+                            <li><a class="dropdown-item" href="patents.html">Patents</a></li>
+                            <li><a class="dropdown-item" href="professional_activities.html">Professional Activities</a>
+                            </li>
                         </ul>
                     </li>
-                
+
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="award.html">Award</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle me-lg-3 dropdown-toggle-item" href="teaching.html" id="navbarTeachingDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle me-lg-3 dropdown-toggle-item" href="teaching.html"
+                            id="navbarTeachingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Teaching
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarTeachingDropdown">
@@ -68,8 +70,8 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle me-lg-3 dropdown-toggle-item" href=" " id="navbarMoreDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle me-lg-3 dropdown-toggle-item" href=" "
+                            id="navbarMoreDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             More
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarMoreDropdown">
@@ -98,28 +100,27 @@
     <!-- Top Section -->
 
 
-
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="home">
         <div class="container px-5">
             <header>
             </header>
             <div class="main-body" id="CallforPaper-md" style="display: flex;">
                 <!-- 左侧图片 -->
-                <div style="flex: 1; padding: 10px;">
+                <div style="flex: 0 1 auto; padding: 10px;">
                     <img src="static/assets/img/DSAA2024.jpg" alt="Left Image" style="width: 100%;">
                 </div>
                 <!-- 右侧文字和图片 -->
-                <div style="flex: 1; padding: 10px;">
-                    <h2>标题</h2>
-                    <p>这里是文字内容。</p>
-                    <img src="path/to/your/image2.jpg" alt="Right Image" style="width: 100%;">
+                <div style="flex: 1 1 auto; padding: 10px;">
+                    <h2>DSAA 2024 (CCF-C)</h2>
+                    <p>Special Session on Private, Secure, and Trust Data Analytics (PSTDA2024)</p>
                 </div>
             </div>
         </div>
     </section>
-    
 
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
+
+
+    <!-- <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
         <div class="container px-5">
             <header>
             </header>
@@ -128,7 +129,7 @@
 
 
         </div>
-    </section>
+    </section> -->
 
 
     <!-- Footer-->
@@ -160,31 +161,31 @@
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             var dropdownToggles = document.querySelectorAll('.dropdown-toggle-item');
-    
-            dropdownToggles.forEach(function(toggle) {
+
+            dropdownToggles.forEach(function (toggle) {
                 var dropdownMenu = toggle.nextElementSibling;
-    
+
                 // 悬浮显示子菜单
-                toggle.addEventListener('mouseenter', function() {
+                toggle.addEventListener('mouseenter', function () {
                     dropdownMenu.classList.add('show');
                 });
-    
-                toggle.addEventListener('mouseleave', function() {
+
+                toggle.addEventListener('mouseleave', function () {
                     dropdownMenu.classList.remove('show');
                 });
-    
-                dropdownMenu.addEventListener('mouseenter', function() {
+
+                dropdownMenu.addEventListener('mouseenter', function () {
                     dropdownMenu.classList.add('show');
                 });
-    
-                dropdownMenu.addEventListener('mouseleave', function() {
+
+                dropdownMenu.addEventListener('mouseleave', function () {
                     dropdownMenu.classList.remove('show');
                 });
-    
+
                 // 点击跳转到指定页面
-                toggle.addEventListener('click', function(event) {
+                toggle.addEventListener('click', function (event) {
                     event.preventDefault(); // 阻止默认的下拉菜单行为
                     window.location.href = toggle.getAttribute('href'); // 跳转到指定页面
                 });
