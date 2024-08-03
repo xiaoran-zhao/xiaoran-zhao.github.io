@@ -1,4 +1,4 @@
-### 2024：
+#### <span style="color: blue;">2024：</span>
 - <span style="color: DeepPink;">[MM]</span> Xingyuan Mao, Yuwen Liu, Lianyong Qi*, Li Duan, Xiaolong Xu*, Xuyun Zhang, Wanchun Dou, Amin Beheshti, Xiaokang Zhou. Cluster-driven Personalized Federated Recommendation with Interest-aware Graph Convolution Network for Multimedia. ACM MM, 2024 (CCF-A).
 - <span style="color: DeepPink;">[CIKM]</span> Xucheng Zhou, Yuwen Liu, Lianyong Qi*, Xiaolong Xu*, Wanchun Dou, Xuyun Zhang, Yang Zhang, Xiaokang Zhou. GLFNet: Global and Local Frequency-domain Network for Long-term Time Series Forecasting. CIKM, 2024. (CCF-B).
 - <span style="color: DeepPink;">[CIKM]</span> Zhikang Feng, Chao Yan, Rong Jiang, Xiaolong Xu*, Xuyun Zhang, Wanchun Dou, Xiaokang Zhou, Lianyong Qi*. CHDAER: Consistent Hashing-based Data Allocation for Efficient Recommendation in Edge Environment. CIKM, 2024. (CCF-B).
@@ -18,7 +18,7 @@
 - <span style="color: DeepPink;">[DASFAA]</span> Nan Liu, Shunmei Meng, Yu Jiang, Qianmu Li, Xiaolong Xu, Lianyong Qi, Xuyun Zhang. Cascading Graph Convolution Contrastive Learning Networks for Multi-Behavior Recommendation. 29th International Conference on Database Systems for Advanced Applications (DASFAA), 2024. (CCF-B).
 - <span style="color: DeepPink;">[DASFAA]</span> Guoming Zhang, Xuyun Zhang, Lianyong Qi, Xiaolong Xu, Man Li, Wanchun Dou. Spatio-temporal aware Next Point-of-Interest Recommendation with Privacy Preserving. 29th International Conference on Database Systems for Advanced Applications (DASFAA), 2024. (CCF-B).
 
-### 2023：
+#### <span style="color: blue;">2023：</span>
 - <span style="color: DeepPink;">[JSAC]</span> Lianyong Qi, Xiaolong Xu*, Xiaotong Wu, Qiang Ni, Yuan Yuan, Xuyun Zhang. Digital-Twin-Enabled 6G Mobile Network Video Streaming Using Mobile Crowdsourcing. IEEE Journal on Selected Areas in Communications, 2023. (CCF-A, IF = 16.4).
 - <span style="color: DeepPink;">[TNNLS]</span> Xiaokang Zhou, Xuzhe Zheng, Tian Shu, Wei Liang, Kevin I-Kai Wang, Lianyong Qi, Shohei Shimizu, Qun Jin. Information-Theoretic Learning Enhanced Dual Generative Adversarial Networks with Causal Representation for Robust OOD Generalization. IEEE Transactions on Neural Networks and Learning Systems, 2023. (CCF-B, IF = 10.4)
 - <span style="color: DeepPink;">[TIST]</span> Yuwen Liu, Xiaokang Zhou, Huaizhen Kou, Yawu Zhao, Xiaolong Xu, Xuyun Zhang, Lianyong Qi*. Privacy-Preserving Point-of-Interest Recommendation based on Simplified Graph Convolutional Network for Geological Traveling. ACM Transactions on Intelligent Systems and Technology, 2023. (IF = 5.0).
@@ -33,7 +33,7 @@
 - <span style="color: DeepPink;">[ICPADS]</span> Jingyang Wang, Tong Lu, Jindian Liu, Qiuhong Sun, Lianyong Qi, Xiaokang Zhou. A Novel Gold Futures Price Prediction Model Based on PCA-AGRU. IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023. (CCF-C, Outstanding Paper Award)
 - <span style="color: DeepPink;">[ICWS]</span> Xiao Liu, Shunmei Meng, Qianmu Li, Xiaolong Xu, Lianyong Qi, Wanchun Dou, Jing Zhang and Xuyun Zhang. Disentangled Hypergraph Collaborative Filtering for Social Recommendation. IEEE ICWS, 2023. (CCF-B).
 
-### 2022：
+#### <span style="color: blue;">2022：</span>
 - <span style="color: DeepPink;">[IEEE UIC'22]</span> Bowen Liu, Wanchun Dou, Xiaokang Zhou, Xuyun Zhang, Lianyong Qi, Fei Dai, Chaochao Chen. An Intelligent Resource Scheduling Method With Edge Channel Deployment for BPM. IEEE UIC 2022. (CCF-C, Outstanding Paper Award).
 [IEEE ATC'22] Yuwen Liu, Jie Zhang, Ruihan Dou, Xiaokang Zhou, Xiaolong Xu, Shoujin Wang, Lianyong Qi*. Vehicle Check-In Data-driven POI Recommendation Based on Improved SVD and Graph Convolutional Network. IEEE ATC 2022. (Best Paper Award).
 - <span style="color: DeepPink;">[IEEE iThings'22]</span> Lianyong Qi, Xiaoxiao Chi, Xiaokang Zhou, Qi Liu, Fei Dai, Xiaolong Xu, Xuyun Zhang. Privacy-aware Data Fusion and Prediction for Smart City Services in Edge Computing Environment. IEEE iThings 2022. (Best Paper Award).
@@ -57,7 +57,7 @@
 - <span style="color: DeepPink;">[HPCC'2022]</span> Zhijie Shen, Bowen Liu, Xiaolong Xu, Lianyong Qi, Fei Dai, Wanchun Dou. IIoT Mobile Business Data Placement Strategy Based on Bayesian Optimization Algorithm. IEEE HPCC, 2022. (CCF-C).
 
 
-### 2021：
+#### <span style="color: blue;">2021：</span>
 - <span style="color: DeepPink;">[IEEE Smart City'2021]</span> Linjie Gu, Xiaolong Xu, Lianyong Qi, Yiwen Zhang, Xuyun Zhang, Wanchun Dou. Cooperative Task Offloading for Internet of Vehicles in Cloud-Edge Computing. 19th IEEE International Conference on Smart City (IEEE Smart City), 2021. (Outstanding Paper Award).
 - <span style="color: DeepPink;">[EAI Cloudcomp'2021]</span> Baixuan Tang, Jielin Jiang, Xiaolong Xu, Lianyong Qi, Xiaokang Zhou, Yang Chen, Wanchun Dou. Triangle Coordinate Diagram Localization for Academic Literature Based on Line Segment Detection in Cloud Computing. 11th EAI International Conference on Cloud Computing (EAI CloudComp), 2021. (Best Paper Award).
 - <span style="color: DeepPink;">[CENet'2021]</span> Lianyong Qi, Fan Wang, Xiaolong Xu*, Wanchun Dou, Xuyun Zhang, Moham-mad R. Khosravi, Xiaokang Zhou. Time-aware Missing Traffic Flow Prediction for Sensors with Privacy-preservation. The 11th International Conference on Computer Engineering and Networks (CENet), 2021. (Outstanding Paper Award).
@@ -81,7 +81,7 @@
 - <span style="color: DeepPink;">[ICWS'2021]</span> Qinting Jiang, Xiaolong Xu, Qiang He, Xuyun Zhang, Fei Dai, Lianyong Qi, Wanchun Dou. Game Theory-Based Task Offloading and Resource Allocation for Vehicular Networks in Edge-Cloud Computing. International Conference on Web Services (ICWS), 2021. (CCF-B).
 - <span style="color: DeepPink;">[ICSOC'2021]</span> Ruichao Mo, Xiaolong Xu, Xuyun Zhang, Lianyong Qi, Qi Liu. Computation Offloading and Resource Management for Energy and Cost Trade-offs with Deep Reinforcement Learning in Mobile Edge Computing. International Conference on Service Oriented Computing (ICSOC), 2021 (CCF-B).
 
-### 2020：
+#### <span style="color: blue;">2020：</span>
 - <span style="color: DeepPink;">[IEEE CPSCom'20]</span> Xiaotong Wu, Xiaolong Xu, Fei Dai, Jiaquan Gao, Genlin Ji, Lianyong Qi. An Ensemble of Random Decision Trees with Personalized Privacy Preservation in Edge-Cloud Computing. 13th IEEE International Conference on Cyber, Physical and Social Computing (IEEE CPSCom), 2020 (Best Paper Award).
 - <span style="color: DeepPink;">[SPDE'20]</span> Datong Wu, Xiaotong Wu, Jiaquan Gao, Genlin Ji, Xiaolong Xu, Lianyong Qi, Wanchun Dou. A Personalized Preservation Mechanism Satisfying Local Differential Privacy in Location-Based Services. International Conference on Security and Privacy in Digital Economy (SPDE), 2020 (Best Paper Award).
 - <span style="color: DeepPink;">[TOMM]</span> Lianyong Qi, Houbing Song, Xuyun Zhang, Gautam Srivastava, Xiaolong Xu*, Shui Yu. Compatibility-aware Web API Recommendation for Mashup Creation via Textual Description Mining. ACM Transactions on Multimedia Computing, Communications, and Applications, 2020. (CCF-B, IF = 3.275). 
@@ -116,7 +116,7 @@
 - <span style="color: DeepPink;">[ICWS'20]</span> Zijie Fang, Xiaolong Xu*, Fei Dai, Lianyong Qi, Xuyun Zhang, Wanchun Dou. Computation Offloading and Content Caching with Traffic Flow Prediction for Internet of Vehicles in Edge Computing,  IEEE International Conference on Web Services (ICWS), 2020. (CCF-B).
 - <span style="color: DeepPink;">[ICWS'20]</span> Bowen Shen, Xiaolong Xu*, Fei Dai, Lianyong Qi, Xuyun Zhang, Wanchun Dou. Dynamic Task Offloading with Minority Game for Internet of Vehicles in Cloud-Edge Computing,  IEEE International Conference on Web Services (ICWS), 2020. (CCF-B).
 
-### 2019：
+#### <span style="color: blue;">2019：</span>
 - <span style="color: DeepPink;">[TCSS]</span> Lianyong Qi, Qiang He, Feifei Chen, Wanchun Dou, Shaohua Wan, Xuyun Zhang, Xiaolong Xu. Finding All You Need: Web APIs Recommendation in Web of Things through Keywords Search. IEEE Transactions on Computational Social Systems, 6(5): 1063-1072, 2019. (CAA-A)
 - <span style="color: DeepPink;">[TCSS]</span> Xiaolong Xu, Qingxiang Liu, Xuyun Zhang, Jie Zhang, Lianyong Qi*, and Wanchun Dou. A Blockchain-Powered Crowdsourcing Method with Privacy Preservation in Mobile Environment. IEEE Transactions on Computational Social Systems, 2019. DOI: 10.1109/TCSS.2019.2909137. (CAA-A)
 - <span style="color: DeepPink;">[INS]</span> Lianyong Qi, Ruili Wang, Chunhua Hu*, Shancang Li, Qiang He, Xiaolong Xu. Time-aware Distributed Service Recommendation with Privacy-preservation. Information Sciences, 480: 354-364, 2019. (CCF-B, IF = 4.305).
@@ -137,7 +137,7 @@
 - <span style="color: DeepPink;">[FGCS]</span> Shunmei Meng, Wenmin Lin, Qianmu Li, Lianyong Qi, Xiaolong Xu, Shaohua Wan*. Privacy-preserving and Sparsity-aware Location-based Prediction Method for Collaborative Recommender Systems. Future Generation Computer Systems, 96: 324-335, 2019. (CCF-C, IF = 4.639).
 - <span style="color: DeepPink;">[FGCS]</span> Xiaolong Xu, Yuan Xue, Lianyong Qi, Yuan Yuan, Xuyun Zhang, Tariq Umer, Shaohua Wan*. An Edge Computing-Enabled Computation Offloading Method with Privacy Preservation for Internet of Connected Vehicles. Future Generation Computer Systems, 96: 89-100, 2019. (CCF-C, IF = 4.639, Editor's Choice Paper).
 
-### 2018：
+#### <span style="color: blue;">2018：</span>
 - <span style="color: DeepPink;">[TBD]</span> Lianyong Qi, Xiaolong Xu, Xuyun Zhang, Wanchun Dou, Chunhua Hu, Yuming Zhou, Jiguo Yu. Structural Balance Theory-based E-commerce Recommendation over Big Rating Data, IEEE Transactions on Big Data, 4(3): 301-312, 2018. (CCF-C, IF = 5.67).
 - <span style="color: DeepPink;">[JNCA]</span> Xiaolong Xu, Shucun Fu, Lianyong Qi*, Xuyun Zhang, Qingxiang Liu, Qiang He, Shancang Li. An IoT-Oriented Data Placement Method with Privacy Preservation in Cloud Environment. Journal of Network and Computer Applications, 124: 148-157, 2018. (CCF-C, IF = 3.991 ).
 - <span style="color: DeepPink;">[FGCS]</span> Lianyong Qi, Xuyun Zhang, Wanchun Dou*, Chunhua Hu, Chi Yang, Jinjun Chen. A Two-stage Locality-Sensitive Hashing Based Approach for Privacy-Preserving Mobile Service Recommendation in Cross-Platform Edge Environment. Future Generation Computer Systems, 88: 636-643, 2018. (CCF-C, IF = 4.639).
@@ -149,7 +149,7 @@
 - <span style="color: DeepPink;">[ICSOC'18]</span> Shunmei Meng, Qianmu Li, Shiping Chen, Shui Yu, Lianyong Qi, Wenmin Lin, Xiaolong Xu, Wanchun Dou. Temporal-Sparsity Aware Service Recommendation Method via Hybrid Collaborative Filtering Techniques. International Conference on Service-Oriented Computing (ICSOC), pp. 421-429, 2018. (CCF-B).
 - <span style="color: DeepPink;">[UIC'18]</span> Jie Zhang, Lianyong Qi, Yuan Yuan, Xiaolong Xu and Wanchun Dou. A Workflow Scheduling Method for Cloudlet Management in Mobile Cloud. International Conference on Ubiquitous Intelligence and Computing (UIC), pp. 932-937, 2018. (CCF-C).
 
-### 2017：
+#### <span style="color: blue;">2017：</span>
 - <span style="color: DeepPink;">[JSAC]</span> Lianyong Qi*, Xuyun Zhang, Wanchun Dou* and Qiang Ni. A Distributed Locality-Sensitive Hashing based Approach for Cloud Service Recommendation from Multi-Source Data. IEEE Journal on Selected Areas in Communications, 35(11): 2616-2624, 2017. (CCF-A, IF = 8.085).
 - <span style="color: DeepPink;">[TBD]</span> Xuyun Zhang*, Lianyong Qi*, Wanchun Dou, Qiang He, Christopher Leckie, Kotagiri Ramamohanarao, Zoran Salcic. MRMondrian: Scalable Multidimensional Anonymisation for Big Data Privacy Preservation. IEEE Transactions on Big Data, accepted, 2017. (CCF-C, IF = 5.67)
 - <span style="color: DeepPink;">[ITIS]</span> Lianyong Qi*, Zhili Zhou, Jiguo Yu and Qi Liu. Data-sparsity tolerant Web Service Recommendation Approach based on Improved Collaborative Filtering. IEICE Transactions on Information and Systems, E100D (9): , 2092-2099, 2017. (IF = 0.50).
@@ -157,17 +157,17 @@
 - <span style="color: DeepPink;">[SpaCCS'17]</span> Lianyong Qi*, Wanchun Dou, Xuyun Zhang, Shui Yu. Amplified Locality-Sensitive Hashing for Privacy-preserving Distributed Service Recommendation. The 10th International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage  (SpaCCS), pp. 280-297, Guang zhou, China, 2017. (Best Paper Award ).
 - <span style="color: DeepPink;">[CSS'17]</span> Lianyong Qi*, Wanchun Dou, Xuyun Zhang. Two-phase Locality-Sensitive Hashing for Privacy-preserving Distributed Service Recommendation. The 9th International Symposium on Cyberspace Safety and Security (CSS'2017), pp. 176-188, Xi'an, China, 2017. (Best Paper Award).
 
-### 2016：
+#### <span style="color: blue;">2016：</span>
 - <span style="color: DeepPink;">[Computing]</span> Lianyong Qi*, Wanchun Dou and Jinjun Chen. Weighted Principal Component Analysis-based Service Selection Method for Multimedia Services in Cloud, Computing, 98(1): 195-214, 2016. (IF = 1.654).
 - <span style="color: DeepPink;">[ICSOC'16]</span> Lianyong Qi*, Wanchun Dou, Xuyun Zhang. Service Recommendation based on Social Balance Theory and Collaborative Filtering, International Conference on Service Oriented Computing (ICSOC), pp. 637-645, 2016. (CCF-B).
 - <span style="color: DeepPink;">[APSCC'16]</span> Lianyong Qi*, Wanchun Dou, Xuyun Zhang. Combining Social Balance Theory and Collaborative Filtering for Service Recommendation in Sparse Environment, International Conference on Asia-Pacific Services Computing (APSCC), pp. 357-374, 2016.
 - <span style="color: DeepPink;">[上海大学学报]</span> 齐连永，窦万春*，周毓明. 一种上下文感知的E-commerce 评级大数据赋权方法, 上海大学学报(自然科学版), 22(1): 36-44, 2016. (EI)
 
-### 2015：
+#### <span style="color: blue;">2015：</span>
 - <span style="color: DeepPink;">[APSCC'15]</span> Lianyong Qi, Xuyun Zhang, Yiping Wen and Yuming Zhou. A Social Balance Theory-based Service Recommendation Approach, International Conference on Asia-Pacific Services Computing (APSCC), pp. 48-60, 2015. 
 - <span style="color: DeepPink;">[CCBD'15]</span> Lianyong Qi*, Xuyun Zhang, Yiping Wen, Yuming Zhou. A Context-aware Service Selection Approach based on Historical Records, International Conference on Cloud Computing and Big Data (CCBD), pp. 127-134, 2015.
 
-### 2014：
+#### <span style="color: blue;">2014：</span>
 - <span style="color: DeepPink;">[ICWS'14]</span> Lianyong Qi*, Wanchun Dou, Jiancheng Ni, Xiaona Xia, Chunmei Ma, Jinfeng Liu. A Trust Evaluation Method for Cloud Services with Fluctuant QoS and Flexible SLA, IEEE International Conference on Web Services (ICWS), pp. 345-352, 2014. (CCF-B).
 - <span style="color: DeepPink;">[TrustCom'14]</span> Lianyong Qi*, Jiancheng Ni, Xiaona Xia, Chao Yan and Wanli Huang. An Evaluation Method for Web Service with Large Numbers of Historical Records, IEEE International Conference on Trust, Security and Privacy in Computing andCommunications (TrustCom), pp. 721-726, 2014. (CCF-C).
 - <span style="color: DeepPink;">[IJCC]</span> Lianyong Qi*, Wanchun Dou, Xuyun Zhang and Yuming Zhou. A SLA Violation Degree-aware Cloud Service Evaluation Approach based on Historical Records, International Journal of Cloud Computing, 2(4): 23-33, 2014.
@@ -175,15 +175,15 @@
 - <span style="color: DeepPink;">[ServiceComputation'14]</span> Lianyong Qi, Jiancheng Ni, Chao Yan, Xiaona Xia and Chunmei Ma. Why Are Reputation Systems Absent from Cloud Services-Reason Analyses and Suggestions, International Conference on Advanced Service Computing (ServiceComputation), pp. 9-14, 2014.
 - <span style="color: DeepPink;">[BDCloud'14]</span> Lianyong Qi*, Jiancheng Ni, Xiaona Xia, Hua Wang and Chao Yan. A Multi-dimensional Weighting Method for Historical Records in Cloud Service Evaluation, IEEE International Conference on Big Data and Cloud Computing (BDCloud), 2014.
 
-### 2013：
+#### <span style="color: blue;">2013：</span>
 - <span style="color: DeepPink;">[Supercomputing]</span> Wanchun Dou*, Lianyong Qi, Xuyun Zhang, Jinjun Chen. An Evaluation Method of Outsourcing Services for Developing An Elastic Cloud Platform, Journal of Supercomputing, 63(1): 1-23, 2013. (CCF-C, IF = 1.532)
 - <span style="color: DeepPink;">[ServiceComputation'13]</span> Lianyong Qi*, Xiaona Xia, Jiancheng Ni,Chunmei Ma and Yanxue Luo. A Decomposition-based Method for QoS-aware Web Service Composition with Large-scale Composition Structure, International Conference on Advanced Service Computing (ServiceComputation), pp. 81-86, 2013. 
 
-### 2012：
+#### <span style="color: blue;">2012：</span>
 - <span style="color: DeepPink;">[JCSS]</span> Lianyong Qi, Wanchun Dou*, Xuyun Zhang and Jinjun Chen. A QoS-aware Composition Method Supporting Cross-Platform Service Invocation in Cloud Environment, Journal of Computer and System Sciences, 78(5): 1316-1329, 2012. (CCF-B, IF = 1.497)
 - <span style="color: DeepPink;">[CGC]</span> Jiancheng Ni*, Lianyong Qi, Chao Yan. A Selection Strategy Supporting Service Outsourcing in Cloud Platform, IEEE International Conference on Cloud and Green Computing (CGC), pp. 726-729, 2012.
 
-### 2011：
+#### <span style="color: blue;">2011：</span>
 - <span style="color: DeepPink;">[CCPE]</span> Lianyong Qi, Wenmin Lin, Wanchun Dou*, Jian Jiang and Jinjun Chen. A QoS-aware Exception Handling Method in Scientific Workflow Execution, Concurrency and Computation: Practice and Experience, 23(16): 1951-1968, 2011. (CCF-C, IF = 1.114)
 - <span style="color: DeepPink;">[计算机集成制造系统]</span> 齐连永, 窦万春*. 跨组织协同中基于局部服务质量优化的Web服务组合方法, 计算机集成制造系统, 17(8): 1647-1653, 2011. (EI)
 - <span style="color: DeepPink;">[东南大学学报]</span> 谢海军, 齐连永, 窦万春*. 基于Skyline和局部选择的启发式服务组合方法, 东南大学学报, 41(3): 449-452, 2011. (EI)
