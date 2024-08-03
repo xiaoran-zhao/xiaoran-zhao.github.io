@@ -161,7 +161,7 @@
 - <span style="color: DeepPink;">[Computing]</span> <span style="font-weight: 900;">Lianyong Qi</span>*, Wanchun Dou and Jinjun Chen. Weighted Principal Component Analysis-based Service Selection Method for Multimedia Services in Cloud, Computing, 98(1): 195-214, 2016. (IF = 1.654).
 - <span style="color: DeepPink;">[ICSOC'16]</span> <span style="font-weight: 900;">Lianyong Qi</span>*, Wanchun Dou, Xuyun Zhang. Service Recommendation based on Social Balance Theory and Collaborative Filtering, International Conference on Service Oriented Computing (ICSOC), pp. 637-645, 2016. (CCF-B).
 - <span style="color: DeepPink;">[APSCC'16]</span> <span style="font-weight: 900;">Lianyong Qi</span>*, Wanchun Dou, Xuyun Zhang. Combining Social Balance Theory and Collaborative Filtering for Service Recommendation in Sparse Environment, International Conference on Asia-Pacific Services Computing (APSCC), pp. 357-374, 2016.
-- <span style="color: DeepPink;">[上海大学学报]</span> 齐连永，窦万春*，周毓明. 一种上下文感知的E-commerce 评级大数据赋权方法, 上海大学学报(自然科学版), 22(1): 36-44, 2016. (EI)
+- <span style="color: DeepPink;">[上海大学学报]</span> <span style="font-weight: 900;">齐连永</span>，窦万春*，周毓明. 一种上下文感知的E-commerce 评级大数据赋权方法, 上海大学学报(自然科学版), 22(1): 36-44, 2016. (EI)
 
 #### <span style="color: blue;">2015：</span>
 - <span style="color: DeepPink;">[APSCC'15]</span> <span style="font-weight: 900;">Lianyong Qi</span>, Xuyun Zhang, Yiping Wen and Yuming Zhou. A Social Balance Theory-based Service Recommendation Approach, International Conference on Asia-Pacific Services Computing (APSCC), pp. 48-60, 2015. 
@@ -185,8 +185,8 @@
 
 #### <span style="color: blue;">2011：</span>
 - <span style="color: DeepPink;">[CCPE]</span> <span style="font-weight: 900;">Lianyong Qi</span>, Wenmin Lin, Wanchun Dou*, Jian Jiang and Jinjun Chen. A QoS-aware Exception Handling Method in Scientific Workflow Execution, Concurrency and Computation: Practice and Experience, 23(16): 1951-1968, 2011. (CCF-C, IF = 1.114)
-- <span style="color: DeepPink;">[计算机集成制造系统]</span> 齐连永, 窦万春*. 跨组织协同中基于局部服务质量优化的Web服务组合方法, 计算机集成制造系统, 17(8): 1647-1653, 2011. (EI)
-- <span style="color: DeepPink;">[东南大学学报]</span> 谢海军, 齐连永, 窦万春*. 基于Skyline和局部选择的启发式服务组合方法, 东南大学学报, 41(3): 449-452, 2011. (EI)
+- <span style="color: DeepPink;">[计算机集成制造系统]</span> <span style="font-weight: 900;">齐连永</span>, 窦万春*. 跨组织协同中基于局部服务质量优化的Web服务组合方法, 计算机集成制造系统, 17(8): 1647-1653, 2011. (EI)
+- <span style="color: DeepPink;">[东南大学学报]</span> 谢海军, <span style="font-weight: 900;">齐连永</span>, 窦万春*. 基于Skyline和局部选择的启发式服务组合方法, 东南大学学报, 41(3): 449-452, 2011. (EI)
 - <span style="color: DeepPink;">[WISM'11]</span> Yang Rutao, Chen Qi, Qi Lianyong, Dou Wanchun*. A QoS Evaluation Method for Personalized Service Requests, International Conference on Web Information Systems and Mining (WISM), pp. 393-402, 2011. 
 ### 2010：
 - <span style="color: DeepPink;">[ICWS'10]</span> <span style="font-weight: 900;">Lianyong Qi</span>, Ying Tang, Wanchun Dou*, Jinjun Chen. Combining Local Optimization and Enumeration for QoS-Aware Web Service Composition, IEEE International Conference on Web Services (ICWS), pp. 34-41, 2010. (CCF-B)
